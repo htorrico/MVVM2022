@@ -11,7 +11,7 @@ namespace MVVM2022
         {
             InitializeComponent();
 
-            MainPage = new Operations();
+            MainPage = new SearchPerson();
         }
 
         protected override void OnStart()
